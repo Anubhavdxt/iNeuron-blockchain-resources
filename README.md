@@ -47,8 +47,11 @@ Code files for Full Stack Blockchain Development Course by [iNeuron.Ai](https://
 144. [Local Storage](Local-Storage)  
 145. [Session Storage](session-storage.js)  
 146. [Cookies](cookies.js)  
+147. No Code Files
 148. [JSON vs Object Literals](JSON-vs-Object-Literals)  
+149. No Code Files
 150. [Fetching](Fetching)  
+151. No code Files
 152. [POST Method](POST-Method)  
 153. [PUT Method](PUT-Method)  
 154. [Guess the Number](Guess-the-Number)  
